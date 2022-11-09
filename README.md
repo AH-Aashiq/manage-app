@@ -1,1 +1,1 @@
-# manage-app
+# landing-page
